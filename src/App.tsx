@@ -28,7 +28,7 @@ export function App() {
                         <DefaultInput
                             id='meuInput'
                             type='text'
-                            labelText='Obrigatório'
+                            labelText='task'
                             placeholder='Digite algo'
                             disabled />
                     </div>
